@@ -9,3 +9,4 @@ Georgia State University, Atlanta, USA.
 https://csds.gsu.edu/
 
 ROC.R: Head-Neck-Cancer microarray data read, KM COX analysis was performed on survial and days, with significant P value, Survival Kaplan Meir KM analysis, area under curve and receiver operating characteristic, AUC-ROC evaluation.
+selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue)

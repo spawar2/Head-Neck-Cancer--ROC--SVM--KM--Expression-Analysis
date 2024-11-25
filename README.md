@@ -11,3 +11,18 @@ https://csds.gsu.edu/
 ROC.R: Head-Neck-Cancer microarray data read, KM COX analysis was performed on survial and days, with significant P value, Survival Kaplan Meir KM analysis, area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue).
 A Six-Gene-Based Prognostic Model Predicts Survival in Head and Neck Squamous Cell Carcinoma Patients, Shrikant Pawar and Stanam, A., Publication: Springer: Journal of Maxillofacial and Oral Surgery (Publication date: January 4), collaboration with Dr. Stanam, University of Iowa, Iowa City, USA, IF=1.0.Github, Article link, [Cited times: 3]^^^ DOI: 10.1007/s12663-019-01187-z, Issue: 2, Volume: 18, Pages: 320-327.
+
+Prediction_train
+        alive dead
+  alive    34    0
+  dead      1    1
+((34+1)/(nrow(training)))*100
+[1] 97.22222
+
+table(testing$V2,pred_test)
+Prediction_test
+        alive dead
+  alive   214    5
+  dead     31   11
+((214+11)/(nrow(testing)))*100
+[1] 86.2069

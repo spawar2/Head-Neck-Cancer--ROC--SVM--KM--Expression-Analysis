@@ -17,7 +17,7 @@ Prediction_train
   alive    34    0
   dead      1    1
 ((34+1)/(nrow(training)))*100
-[1] 97.22222
+[1] 97.22222.
 
 table(testing$V2,pred_test)
 Prediction_test
@@ -25,4 +25,4 @@ Prediction_test
   alive   214    5
   dead     31   11
 ((214+11)/(nrow(testing)))*100
-[1] 86.2069
+[1] 86.2069.

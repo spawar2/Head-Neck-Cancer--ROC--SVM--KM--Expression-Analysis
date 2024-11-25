@@ -12,7 +12,7 @@ ROC.R: Head-Neck-Cancer microarray data read, KM COX analysis was performed on s
 selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue).
 A Six-Gene-Based Prognostic Model Predicts Survival in Head and Neck Squamous Cell Carcinoma Patients, Shrikant Pawar and Stanam, A., Publication: Springer: Journal of Maxillofacial and Oral Surgery (Publication date: January 4), collaboration with Dr. Stanam, University of Iowa, Iowa City, USA, IF=1.0.Github, Article link, [Cited times: 3]^^^ DOI: 10.1007/s12663-019-01187-z, Issue: 2, Volume: 18, Pages: 320-327.
 
-Prediction_train
+Testing: Prediction_train
         alive dead
   alive    34    0
   dead      1    1

@@ -7,6 +7,7 @@ Springer Journal of Maxillofacial and Oral Surgery. [Paper Link:](https://www.nc
 
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
+![download2](https://github.com/user-attachments/assets/544b85ec-1b6e-4b43-bfa4-fe436dc525b4)
 
 ROC.R: Head-Neck-Cancer microarray data read, KM COX analysis was performed on survial and days, with significant P value, Survival Kaplan Meir KM analysis, area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue).

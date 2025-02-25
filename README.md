@@ -8,7 +8,7 @@ Springer Journal of Maxillofacial and Oral Surgery. [Paper Link:](https://www.nc
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/
 ![download2](https://github.com/user-attachments/assets/544b85ec-1b6e-4b43-bfa4-fe436dc525b4)
-
+^^^Georgia State University, College of Arts and Sciences, Department of Computer Science and Biology, Atlanta, United States of America (USA). 
 ROC.R: Head-Neck-Cancer microarray data read, KM COX analysis was performed on survial and days, with significant P value, Survival Kaplan Meir KM analysis, area under curve and receiver operating characteristic, AUC-ROC evaluation.
 selected function(re.search,getROC_AUC, plot, as.numeric, sapply, as.numeric, unlist, svm, predict, Surv, survfit, surv_pvalue).
 A Six-Gene-Based Prognostic Model Predicts Survival in Head and Neck Squamous Cell Carcinoma Patients, Shrikant Pawar and Stanam, A., Publication: Springer: Journal of Maxillofacial and Oral Surgery (Publication date: January 4), collaboration with Dr. Stanam, University of Iowa, Iowa City, USA, IF=1.0.Github, Article link, [Cited times: 3]^^^ DOI: 10.1007/s12663-019-01187-z, Issue: 2, Volume: 18, Pages: 320-327.

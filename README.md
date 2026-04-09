@@ -1,5 +1,5 @@
 # Head-Neck-Cancer--ROC--SVM--KM--Expression-Analysis collaboration with Dr. Aditya. Stanam, University of Iowa, Iowa City, USA. https://www.linkedin.com/in/aditya-stanam-07bbb819/
-Springer Journal of Maxillofacial and Oral Surgery. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30996559)
+Springer (Springer Nature) Journal of Maxillofacial and Oral Surgery. [Paper Link:](https://www.ncbi.nlm.nih.gov/pubmed/30996559)
 [R: survival, Biobase, pbapply]. Date created/updated: December, 9, 2024.
 <img width="749" alt="Six gene" src="https://github.com/spawar2/Head-Neck-Cancer--ROC--SVM--KM--Expression-Analysis/assets/25118302/085134c5-2fa0-48d0-acc0-f13a33600862">
 

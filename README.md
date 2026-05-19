@@ -4,6 +4,7 @@ Springer (Springer Nature) Journal of Maxillofacial and Oral Surgery. [Paper Lin
 <img width="749" alt="Six gene" src="https://github.com/spawar2/Head-Neck-Cancer--ROC--SVM--KM--Expression-Analysis/assets/25118302/085134c5-2fa0-48d0-acc0-f13a33600862">
 
 <img width="738" alt="Screenshot 2023-05-17 at 10 26 55 AM" src="https://github.com/spawar2/Head-Neck-Cancer--ROC--SVM--KM--Expression-Analysis/assets/25118302/e84512a9-b76b-446a-bcab-30f06d36fd61">
+<img width="1450" height="790" alt="Screenshot 2026-05-20 at 1 52 57 AM" src="https://github.com/user-attachments/assets/817972bc-83f0-43e6-a669-4dcd8fa8956f" />
 
 Georgia State University, Atlanta, United States of America (USA).
 https://csds.gsu.edu/ Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
